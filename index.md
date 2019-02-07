@@ -159,7 +159,7 @@ and our administrator may contact you if we need any extra information.</h4>
 </p>
 <p id="registration">
    <strong>Registration:</strong>:
-  Please use the link above for the Eventbrite registration page.  If the event is sold out, please contact <a href='mailto:kerchner@gwu.edu'>kerchner@gwu.edu</a> if you'd like to be added to the waiting list.
+  Please use the link above for the Eventbrite registration page.  If the event is sold out and you'd like to be added to the waiting list, please contact <a href='mailto:kerchner@gwu.edu'>kerchner@gwu.edu</a>
 </p>
 {% comment %}
   CONTACT EMAIL ADDRESS
