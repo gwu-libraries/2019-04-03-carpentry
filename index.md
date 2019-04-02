@@ -131,7 +131,7 @@ and our administrator may contact you if we need any extra information.</h4>
   {% elsif page.carpentry == "lc" %}
   Library Carpentry's
   {% endif %}
-  <a href="{{site.swc_site}}/conduct.html">Code of Conduct</a>.
+  <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.
 </p>
 
 {% comment %}
